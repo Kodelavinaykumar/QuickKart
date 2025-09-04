@@ -1,10 +1,19 @@
-import backend in eclips as maven project
-and run it
+# QuickKart 🛒
+An E-commerce web application built using **Java (Spring Boot)**, **Maven**, **ReactJS**, **NodeJS**, **HTML**, and **CSS**.
 
-open frontend file in vs code
-type npm install in terminal then enter
-after that npm start and press enter
+## Features
+- User authentication & registration
+- Product catalog
+- Shopping cart & checkout
+- Admin panel for managing products
 
-this is you final project
-if any chenges you want you can do
-if your are getting error then tell me
+## Tech Stack
+- Backend: Java, Spring Boot, Maven
+- Frontend: ReactJS, HTML, CSS
+- Database: MySQL
+
+## Setup
+1. Clone the repo
+2. Install dependencies
+3. Run backend: `mvn spring-boot:run`
+4. Run frontend: `npm start`
