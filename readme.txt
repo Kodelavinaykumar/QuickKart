@@ -8,7 +8,7 @@ An E-commerce web application built using **Java (Spring Boot)**, **Maven**, **R
 - Admin panel for managing products
 
 ## Tech Stack
-- Backend: Java, Spring Boot, Maven
+- Backend: Java, Spring Boot, Maven,REST API
 - Frontend: ReactJS, HTML, CSS
 - Database: MySQL
 
